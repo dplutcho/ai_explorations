@@ -1,0 +1,5 @@
+data_input
+.ipynb_checkpoints/
+.env
+rag/.env
+data_output
